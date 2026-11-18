@@ -1,0 +1,18 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Flutter / Dart
+**/.dart_tool/
+**/build/
+**/.pub-cache/
+**/.pub/
+**/.widget_preview/
